@@ -50,7 +50,7 @@ QStackedWidget is used to switch between all 3 windows of the app. <br>
 Favorite cities and settings are stored into the sqlite databases. <br>
 
 
-##Screenshots
+## Screenshots
 <p>Main window<br> <img src="https://i.ibb.co/9NnVRXx/image.png"> <br></p>
 <p>Settings window<br> <img src="https://i.ibb.co/XzpQd5P/image.png"> <br></p>
 <p>Favorites window<br> <img src="https://i.ibb.co/KWCPLN6/image.png"> <br></p>
