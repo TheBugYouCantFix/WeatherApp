@@ -31,7 +31,7 @@ This GUI app was created to show the detailed information about the weather in a
 ## Features
 <ul>
     <li>Settings</li>
-    <li>Favorite cities]</li>
+    <li>Favorite cities</li>
     <li>Default city (it's displayed right when the app is opened)</li>
     <li>App can be minimized to tray</li>
     <li>Hotkeys</li>
