@@ -32,7 +32,7 @@ This GUI app was created to show the detailed information about the weather in a
 <ul>
     <li>Settings</li>
     <li>Favorite cities]</li>
-    <li>Defult city(it's displayed right when the app is opened)</li>
+    <li>Default city (it's displayed right when the app is opened)</li>
     <li>App can be minimized to tray</li>
     <li>Hotkeys</li>
     <li>The search works for both Latin and Cyrillic alphabet</li>
