@@ -71,7 +71,7 @@ pip install -r requirements.txt
 ```
 Get your token [here](https://openweathermap.org/price)
 
-Type ```cd weather_parsing``` then open **config.py** and insert your token into the **TOKEN** variable.
+Open **weather_parsing** folder. Then go to **config.py** and insert your token into the **TOKEN** variable.
 ```
 python main.py
 ```
