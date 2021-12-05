@@ -1,9 +1,8 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/TheBugYouCantFix/WeatherApp)](https://github.com/TheBugYouCantFix/WeatherApp/issues) ![Lines of code](https://img.shields.io/tokei/lines/github/TheBugYouCantFix/WeatherApp)
 
+# WeatherApp
 
-#WeatherApp
-
-##Content
+## Content
 - [Brief description](#brief-description)
 - [Tools](#tools)
 - [Features](#features)
