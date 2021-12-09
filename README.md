@@ -53,7 +53,7 @@ Favorite cities and settings are stored into the sqlite databases. <br>
 
 ## Screenshots
 <p>Main window<br> <img src="https://i.ibb.co/9NnVRXx/image.png"> <br></p>
-<p>Settings window<br> <img src="https://i.ibb.co/XzpQd5P/image.png"> <br></p>
+<p>Settings window<br> <img src="https://i.ibb.co/PMN86qT/image.png"> <br></p>
 <p>Favorites window<br> <img src="https://i.ibb.co/KWCPLN6/image.png"> <br></p>
 
 ## Ways to improve the project
