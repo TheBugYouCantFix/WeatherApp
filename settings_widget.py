@@ -66,12 +66,14 @@ class SettingsWidget(QWidget, Ui_Form):
 
         if self.counter == len(self.check_boxes):
             self.allCheckBox.setChecked(True)
+        else:
+            self.allCheckBox.setChecked(False)
 
     def select_all(self):
         if self.allCheckBox.isChecked():
             for check_box in self.check_boxes:
                 check_box.setChecked(True)
-        else:
+        elif self.counter == len(self.check_boxes):
             for check_box in self.check_boxes:
                 check_box.setChecked(False)
 
